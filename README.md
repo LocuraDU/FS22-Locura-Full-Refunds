@@ -20,8 +20,8 @@ A simple mod that will refund you back the full price of buildings when you sell
 
 
 # Download
-[![](https://img.shields.io/badge/RELEASE-Download_v1.2-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Full-Refunds%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22_Locura_Full_Refunds)
-[![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Full-Refunds%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22_Locura_Full_Refunds)
+[![](https://img.shields.io/badge/RELEASE-Download_v1.0-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Full-Refunds%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22_Locura_Full_Refunds)
+[![](https://img.shields.io/badge/BETA-Download_v1.1b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Full-Refunds%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22_Locura_Full_Refunds)
 [![](https://img.shields.io/badge/SOURCE-Download-green?style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Full-Refunds/releases)
 
 > **Note**
